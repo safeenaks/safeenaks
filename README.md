@@ -101,4 +101,4 @@ class Safeena:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F6FFF,50:9B5DE5,100:7F3FBF&height=120&section=footer"/>
 
 </div>
-````
+
