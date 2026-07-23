@@ -1,4 +1,4 @@
-````md
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=7F3FBF&center=true&vCenter=true&width=900&lines=Hi+I'm+Safeena+👋;Computer+Science+Student;AI+Developer;Frontend+Developer;Hackathon+Winner;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
