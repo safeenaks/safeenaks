@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=7F3FBF&center=true&vCenter=true&width=900&lines=Hi+I'm+Safeena+👋;Computer+Science+Student;AI+Developer;Frontend+Developer;Hackathon+Winner;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hey, I'm Safeena
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hey, scroll down to see more!
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
