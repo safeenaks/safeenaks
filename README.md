@@ -69,15 +69,7 @@ class Safeena:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=safeenaks&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeenaks&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -101,13 +93,6 @@ class Safeena:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=safeenaks&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-frame=true"/>
-
-</div>
 
 ---
 
