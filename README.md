@@ -21,11 +21,12 @@ class Safeena:
     code = [
         "Python",
         "Java",
-        "C++",
+        "C",
         "JavaScript"
     ]
 
     interests = [
+        "MERN",
         "Artificial Intelligence",
         "Machine Learning",
         "Full Stack Development",
